@@ -20,4 +20,5 @@ General libary for sort vizualizations, [sort-lab](https://github.com/League-Lab
 
 ### Finn
 
-my bubble sort visualizer: https://finnsauce.github.io/sorting/bubble-sort-visualizer.html
+* Animation: https://finnsauce.github.io/sorting/bubble-sort-visualizer.html
+* Repo: https://github.com/finnsauce/sorting
