@@ -4,21 +4,20 @@ General libary for sort vizualizations, [sort-lab](https://github.com/League-Lab
 
 ### Adriel Alcala
 
-* Animation: https://whizoji.github.io/test/  
-* Repo: https://github.com/whizoji/test/
+* Animation: [https://whizoji.github.io/test/](https://whizoji.github.io/test/)
+* Repo: [https://github.com/whizoji/test/](https://github.com/whizoji/test/)
 
 ### Alek
 
-* Animation: https://league-labs.github.io/visualizer-/
-* Repo: https://github.com/league-labs/visualizer-/
+* Animation: [https://league-labs.github.io/visualizer-/](https://league-labs.github.io/visualizer-/)
+* Repo: [https://github.com/league-labs/visualizer-/](https://github.com/league-labs/visualizer-/)
 
 ### Gabrio Norton
 
-* Animation: https://gabrionorton98.github.io/RealJavaQuicksort/
-* Repo: https://github.com/gabrionorton98/RealJavaQuicksort
-
+* Animation: [https://gabrionorton98.github.io/RealJavaQuicksort/](https://gabrionorton98.github.io/RealJavaQuicksort/)
+* Repo: [https://github.com/gabrionorton98/RealJavaQuicksort](https://github.com/gabrionorton98/RealJavaQuicksort)
 
 ### Finn
 
-* Animation: https://finnsauce.github.io/sorting/bubble-sort-visualizer.html
-* Repo: https://github.com/finnsauce/sorting
+* Animation: [https://finnsauce.github.io/sorting/bubble-sort-visualizer.html](https://finnsauce.github.io/sorting/bubble-sort-visualizer.html)
+* Repo: [https://github.com/finnsauce/sorting](https://github.com/finnsauce/sorting)
