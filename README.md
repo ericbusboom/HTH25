@@ -18,4 +18,6 @@ General libary for sort vizualizations, [sort-lab](https://github.com/League-Lab
 * Repo: https://github.com/gabrionorton98/RealJavaQuicksort
 
 
+### Finn
 
+my bubble sort visualizer: https://finnsauce.github.io/sorting/bubble-sort-visualizer.html
